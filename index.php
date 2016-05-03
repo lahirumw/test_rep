@@ -35,7 +35,7 @@
 		  margin: 0 .1em;
 		}
 		.tag a {
-		  color: #bbb;
+		  color: #bb1;
 		  cursor: pointer;
 		  opacity: 0.6;
 		}

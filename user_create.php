@@ -27,7 +27,7 @@
 		header('Location: register.php');
 	} else {
 		// Display error message.
-		echo "<p>Subject creation is failed.</p>";
+		echo "<p>Subject creation has failed.</p>";
 		echo "<p>" . mysql_error() . "</p>";
 	}
 ?>

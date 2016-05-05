@@ -16,7 +16,7 @@
 	
 	<style>
 		.nav-right{
-			float:right;
+			float:left;
 		}
 		.topJumbo{
 			margin-top:80px;

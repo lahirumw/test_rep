@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Widget Corp Test</title>
+		<title>Widget Corp 1</title>
 		<link href="stylesheets/public.css" media="all" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
